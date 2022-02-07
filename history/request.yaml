@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: GI01SUMO-RII11-02-PHSENE041-telemetered-phsen_abcdef_imodem_control
-last_request: '2022-01-21T19:21:27.262704Z'
+last_request: '2022-02-07T18:45:08.776691Z'
 response: https://raw.githubusercontent.com/ooi-data/GI01SUMO-RII11-02-PHSENE041-telemetered-phsen_abcdef_imodem_control/main/history/response.json
 status: discontinued
